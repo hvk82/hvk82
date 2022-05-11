@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/hemanth-vishwakarma-1253a9146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth vishwakarma" height="30" width="40" /></a>
 </p>
 <h3>Some of my projects:-</h3>
-<ul><li>Mapty project  <a href="https://maptyproject.herokuapp.com/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
+<ul><li>Mapty project  <a href="https://maptygeo.netlify.app/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
 <ul><li>Omnifood project (html,css and js based)  <a href="https://omnifood980.netlify.app/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
 
 <h3 align="left">Languages and Tools:</h3>
