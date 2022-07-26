@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvk82&label=Profile%20views&color=0e75b6&style=flat" alt="hvk82" /> </p>
 
-- 🌱 I’m currently learning **react,node js(MERN stack)**
+ 🌱 I’m currently learning **react,node js(MERN stack)**
 
-- 💬 Ask me about **html,css and javascript**
+ 💬 Ask me about **html,css and javascript**
 
-- 📫 How to reach me **hemanthkumarvk98@gmail.com**
+ 📫 How to reach me **hemanthkumarvk98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
