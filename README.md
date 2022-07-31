@@ -10,7 +10,7 @@
 
  📫 How to reach me **hemanthkumarvk98@gmail.com**
  
- ▶️ Other links- <a href="https://codepen.io/hvk82">Codepen<a>
+ ▶️ Other links- <a href="https://codepen.io/hvk82">Codepen<a>, <a href="https://leetcode.com/hemanthkumarvk98/">Leetcode</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
