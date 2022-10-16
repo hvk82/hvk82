@@ -19,7 +19,7 @@
 <h3>Some of my projects:-</h3>
 
 <h2>MERN based Projects</h2>
-<ul><li>Jobify project  <a href="https://jobifyapplication.herokuapp.com/landing" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
+<ul><li>Jobify project  <a href="https://jobifyapplication.herokuapp.com/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
 
 <h2>HTML,CSS and Javascript based Projects</h2>
 <ul><li>Mapty project  <a href="https://maptygeo.netlify.app/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
