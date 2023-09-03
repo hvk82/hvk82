@@ -18,9 +18,6 @@
 </p>
 <h3>Some of my projects:-</h3>
 
-<h2>MERN based Projects</h2>
-<ul><li>Jobify project  <a href="https://jobifyapplication.herokuapp.com/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
-
  <h2>React based projects</h2>
 <ul><li>Typing speed game(buit using react hooks)  <a href="https://typinggame980.netlify.app/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
 <ul><li>Tic Tac Toe game(buit using react hooks)  <a href="https://ticktakt0e.netlify.app/" target="_blank" rel="noreferrer noopener"> ➤Click here</a></ul>
